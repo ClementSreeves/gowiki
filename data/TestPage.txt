@@ -1,0 +1,7 @@
+[test] This is a sample Page.
+
+Mimi loves Xiao Fang.
+
+Xiao Fang hao ai hao ai Mimi.
+
+Another page is Test
